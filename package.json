@@ -1,0 +1,14 @@
+{
+  "name": "@kneone/is-545-advanced-data-visualization/2",
+  "main": "f713a4e233263b07@656.js",
+  "version": "656.0.0",
+  "homepage": "https://observablehq.com/@kneone/is-545-advanced-data-visualization/2",
+  "author": {
+    "name": "kneone",
+    "url": "https://observablehq.com/@kneone"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
